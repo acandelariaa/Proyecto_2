@@ -77,7 +77,7 @@ plt.show()
 Como podemos darnos cuenta, las clases estan muy mezcladas, por lo que eso nos podria decir que sera algo 
 dificil(no imposible) encontrar un buen modelo que pueda predecir correctamente.
 
-Crear Modelo
+### Crear Modelo
 
 >Python Code
 
@@ -94,7 +94,7 @@ modelo_lda.fit(X_train_scaled, y_train)
 ```
 
 
-Predicciones y metricas
+### Predicciones y metricas
 
 >Python Code
 
@@ -135,7 +135,7 @@ Parece que solo podemos predecir de forma global el 45% de los datos de nuestro 
 de confusión para ver que esta pasando, ya que vemos que la respuesta al tratamiento `Good`, sigue siendo muy mala.
 
 
-Matriz de confusión
+### Matriz de confusión
 
 >Python Code
 
@@ -159,7 +159,7 @@ La respuesta `Good`, sigue siendo la mas dificil de predecir, con solo 1 predicc
 parece que ahora podemos predecir mejor las respuestas moderadas y pobres, lo cual es un avance.
 
 
-Curva ROC
+### Curva ROC
 
 
 >Python Code
