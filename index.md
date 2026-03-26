@@ -7,9 +7,12 @@
 **Dataset**: Brain Tumor Risk & Treatment Dataset
 **Objetivo**: Clasificar y predecir mediante un modelo de machine learning la respuesta al tratamiento de una persona con tumor cerebral.
 
-| Dataset |[Brain_tumor_risk](PSCompPars_2026.02.16_14.28.02.csv) |
+|Dataset|--|
 |---|---|
-| **Notebook** | [.ipynb](PP1_IA.ipynb) |
+| .csv(1)|[Patient_info](Patient_info.csv) |
+| .csv(2)|[Clinical-data](Tumor_Clinical_Data.csv) |
+| .csv(3)|[Treatment_outcome](Treatment_outcome.csv) |
+| **Notebook** | [.ipynb](P_P2_IA.ipynb) |
 ----
 
 Este proyecto tiene como finalidad, clasificar y predecir la respuesta a un tratamiento de una persona con algun tipo de tumor cerebral a partir de datos clinicos, información del paciente y resultados del tratamiento.
@@ -28,15 +31,12 @@ A Comprehensive Dataset for Tumor Classification and Treatment Study"*
 
 ## Metodología
 
-1. **Limpieza de datos**: Eliminación de columnas con >50% nulos, imputación KNN
-2. **Ingeniería de características**: Transformación logarítmica, eliminación de outliers
-3. **Selección de variables**: Análisis de correlación + búsqueda exhaustiva con CV
-4. **Modelado**:
-   - Regresión lineal múltiple
-   - Lasso con características polinomiales (grado 2)
-   - Backward elimination para inferencia
-5. **Evaluación**: R², MAE, RMSE + validación cruzada
-
+1. Exploración y contextualización de los datos
+2. Tratamiento de los datos
+3. Creación de modelos
+4. Comparación de modelos
+5. Selección del mejor modelo
+6. Reflexión y conclusiones
 ---
 
 ## Procedimiento
