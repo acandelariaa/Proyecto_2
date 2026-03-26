@@ -5,9 +5,9 @@
 
 ----
 **Dataset**: Brain Tumor Risk & Treatment Dataset
-**Objetivo**: Identificar los determinantes físicos de la temperatura planetaria y priorizar candidatos para búsqueda de vida extraterrestre.
+**Objetivo**: Clasificar y predecir mediante un modelo de machine learning la respuesta al tratamiento de una persona con tumor cerebral.
 
-| Dataset |[NASA_exoplanets](PSCompPars_2026.02.16_14.28.02.csv) |
+| Dataset |[Brain_tumor_risk](PSCompPars_2026.02.16_14.28.02.csv) |
 |---|---|
 | **Notebook** | [.ipynb](PP1_IA.ipynb) |
 ----
@@ -52,10 +52,8 @@ A Comprehensive Dataset for Tumor Classification and Treatment Study"*
 
 ## Referencias
 
-- **NASA Exoplanet Archive**: https://exoplanetarchive.ipac.caltech.edu/
-- Kopparapu et al. (2013). *Habitable Zones Around Main-Sequence Stars*
-- Kasting et al. (1993). *Habitable Zones around Main Sequence Stars*
-
+- Brain Tumor Facts - National Brain Tumor Society. (2026, 6 marzo). National Brain Tumor Society. https://braintumor.org/brain-tumors/about-brain-tumors/brain-tumor-facts/
+- Algozee. (s.f.). Brain Tumor Risk & Treatment Dataset. Kaggle. https://www.kaggle.com/datasets/algozee/brain-tumor-risk-and-treatment-dataset
 ---
 
 
