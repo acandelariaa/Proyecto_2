@@ -42,13 +42,21 @@ A Comprehensive Dataset for Tumor Classification and Treatment Study"*
 ## Procedimiento
 
 
-[Contexto de los datos](contexto.md)
+[Exploración de los datos](exploracion.md)
 
-[Exploracion de datos](explorar_datos.md)
+[Tratamiento de datos](tratamiento_datos.md)
 
-[Modelos/conclusion](modelos.md)
+[Modelo de regresión logistica](regresion_logistica.md)
 
-[What if??](whatif.md)
+[Modelo LDA](modelo_lda.md)
+
+[Modelo de ensamble (Boosting)](modelos_ensamble.md)
+
+[Modelo SVM](modelo_SVM.md)
+
+[Modelo de redes neuronales / conclusión](redes_neuronales)
+
+
 
 ## Referencias
 
