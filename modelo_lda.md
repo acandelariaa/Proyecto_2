@@ -211,4 +211,4 @@ lo que confirma la dificultad del modelo para separar las clases de forma confia
 
 
 ----
-[Siguiente pagina]()
+[Siguiente pagina](modelos_ensamble.md)
