@@ -162,4 +162,4 @@ tener ningún acierto directo.
 
 ----
 
-[Siguiente pagina]
+[Siguiente pagina](redes_neuronales.md)
