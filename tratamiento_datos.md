@@ -415,4 +415,4 @@ Bien, ahora que tenemos listos nuestros datos, vayamos a la construcción de mod
 
 -----
 
-[Siguiente pagina]()
+[Siguiente pagina](regresion_logistica.md)
