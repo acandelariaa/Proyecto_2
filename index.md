@@ -9,9 +9,9 @@
 
 |Dataset|--|
 |---|---|
-| .csv(1)|[Patient_info](Patient_info.csv) |
+| .csv(1)|[Patient_info](Patient_Info.csv) |
 | .csv(2)|[Clinical-data](Tumor_Clinical_Data.csv) |
-| .csv(3)|[Treatment_outcome](Treatment_outcome.csv) |
+| .csv(3)|[Treatment_outcome](Treatment_Outcome.csv) |
 | **Notebook** | [.ipynb](P_P2_IA.ipynb) |
 ----
 
