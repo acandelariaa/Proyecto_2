@@ -66,7 +66,10 @@ A Comprehensive Dataset for Tumor Classification and Treatment Study"*
 ## Referencias
 
 - Brain Tumor Facts - National Brain Tumor Society. (2026, 6 marzo). National Brain Tumor Society. https://braintumor.org/brain-tumors/about-brain-tumors/brain-tumor-facts/
+  
 - Algozee. (s.f.). Brain Tumor Risk & Treatment Dataset. Kaggle. https://www.kaggle.com/datasets/algozee/brain-tumor-risk-and-treatment-dataset
+
+
 ---
 
 
