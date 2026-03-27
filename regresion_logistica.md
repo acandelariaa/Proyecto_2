@@ -216,3 +216,7 @@ indicando mejores aciertos en esas clases.
 Por ultimo, la curva ROC para cada clase de salida nos muestra que el modelo de Regresión logistica es malisimo
 para predecir si a los pacientes con buena respuesta al tratamiento, con un 0.4, estamos abajo del azar, lo cual nos 
 indica que el modelo no es bueno.
+
+----
+
+[Siguiente pagina](modelo_lda.md)
