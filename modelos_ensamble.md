@@ -195,4 +195,4 @@ cosa que nos puede ser de utilidad para tomar desiciones en otro tipo de modelo.
 
 ----
 
-[Siguiente pagina]
+[Siguiente pagina](modelo_SVM.md)
